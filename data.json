@@ -84,12 +84,247 @@
     },
     {
       "_id": "6704bed708b5c5629eb8661b",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/martin-et00328827-1677137256.jpg",
+      "title": "Martin",
+      "director": "A.P.Arjun",
+      "description": "Gowtham hides a body in his car after an accident, but when he`s arrested for drunk driving, the car is taken to the police station, unnoticed. This sets off a series of twists and turns that complicate his situation. How does he overcome this increasingly dire predicament?Martin is a pulse pounding edge of the seat action thriller. A character whose dramatic journey takes him to the length and breadth of the country to fight against evil forces lurking to destroy India. But he is also in love with a beautiful lass. His journey is of discovering himself, finding love and fighting for his motherland. Can he hold the fort on all three gates?",
+      "year": 2024,
+      "genre": "Action,Drama,Thriller",
+      "shows": {
+        "2024-10-15": [
+          {
+            "time": "07:00 AM",
+            "seats": 88,
+            "id": "show_20241015_1",
+            "bookings": [
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 12
+              }
+            ]
+          },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bed708b5c5629eb8661b",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/black-et00414825-1728127305.jpg",
+      "title": "Black",
+      "director": "K.G.Balasubramani",
+      "description": "Vasanth and Aaranya, a young couple, move into a serene row house, eager for peace and privacy. However, after a violent storm leaves them trapped inside, unsettling forces begin to unravel their marriage. Vasanth must uncover the truth behind these supernatural occurrences before everything falls apart.",
+      "year": 2024,
+      "genre": "Horror,Thriller",
+      "shows": {
+        "2024-10-15": [
+          {
+            "time": "07:00 AM",
+            "seats": 88,
+            "id": "show_20241015_1",
+            "bookings": [
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 12
+              }
+            ]
+          },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bed708b5c5629eb8661b",
       "image": "https://assets-in.bmscdn.com/iedb/movies/images/website/poster/large/sattam-en-kayil-et00412489-1726743894.jpg",
       "title": "Sattam En Kayil",
       "director": "Chachi",
       "description": "Gowtham hides a body in his car after an accident, but when he`s arrested for drunk driving, the car is taken to the police station, unnoticed. This sets off a series of twists and turns that complicate his situation. How does he overcome this increasingly dire predicament?",
       "year": 2024,
       "genre": "Action,Drama,Thriller",
+      "shows": {
+        "2024-10-15": [
+          {
+            "time": "07:00 AM",
+            "seats": 88,
+            "id": "show_20241015_1",
+            "bookings": [
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 12
+              }
+            ]
+          },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bed708b5c5629eb8661b",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/venom-the-last-dance-et00383474-1717480633.jpg",
+      "title": "Venom:The Last Dance",
+      "director": "Kelly Marcel",
+      "description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie`s last dance.",
+      "year": 2024,
+      "genre": "Action,Thriller,Sci-fi",
+      "shows": {
+        "2024-10-15": [
+          {
+            "time": "07:00 AM",
+            "seats": 88,
+            "id": "show_20241015_1",
+            "bookings": [
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 12
+              }
+            ]
+          },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bed708b5c5629eb8661b",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sir-tamil-et00396137-1718713029.jpg",
+      "title": "Sir",
+      "director": "Bose Venkat",
+      "description": "The people of Mangollai village like Colochi Saami and Saamikannu opposed education for the poor while people like Annadurai and Sivangaanam fought against oppression.",
+      "year": 2024,
+      "genre": "Drama,Thriller",
+      "shows": {
+        "2024-10-15": [
+          {
+            "time": "07:00 AM",
+            "seats": 88,
+            "id": "show_20241015_1",
+            "bookings": [
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 12
+              }
+            ]
+          },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bed708b5c5629eb8661b",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/lubber-pandhu-et00409924-1725002124.jpg",
+      "title": "Lubber Pandhu",
+      "director": "Thamizharasan Pachamuthu",
+      "description": "Set against the rural backdrop, the film explores the exciting world of gully cricket focusing on the intense rivalry between two star players, Gethu and Anbu. When Anbu, gets romantically involved with Gethu`s daughter their rivalry escalates into a dramatic clash. The story builds to a climactic showdown where their skills and emotions are put to the ultimate test.",
+      "year": 2024,
+      "genre": "Drama,Romantic,Sports",
       "shows": {
         "2024-10-15": [
           {
@@ -407,10 +642,10 @@
             "id": "show_20241016_2",
             "bookings": [
               {
-                "name": "PADMANABAN V",
-                "email": "sanjaikannang@gmail.com",
-                "phoneNumber": 9442024941,
-                "seats": 12
+                "name": "Reya",
+                "email": "reyacelene@gmail.com",
+                "phoneNumber": 6383237353,
+                "seats": 2
               }
             ]
           }
