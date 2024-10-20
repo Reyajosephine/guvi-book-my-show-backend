@@ -63,7 +63,7 @@ app.get("/movie/:id", async (req, res) => {
   }
 });
 
-app.post("/movie/book-movies", async (req, res) => {
+app.post("/movie/book-movie", async (req, res) => {
   let bookingRequest = req.body;
 
   if (
